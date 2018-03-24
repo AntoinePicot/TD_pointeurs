@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(12): error C2065: 'vector' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(12): error C2059: erreur de syntaxe : '>'
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(14): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(14): error C2228: la partie gauche de '.push_back' doit avoir un class/struct/union
+  c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(14): note: le type est 'unknown-type'
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(15): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(15): error C2228: la partie gauche de '.push_back' doit avoir un class/struct/union
+  c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(15): note: le type est 'unknown-type'
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(16): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(16): error C2228: la partie gauche de '.push_back' doit avoir un class/struct/union
+  c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(16): note: le type est 'unknown-type'
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(18): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(18): error C2227: la partie gauche de '->affiche' doit pointer vers un type class/struct/union/générique
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(21): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(21): error C2227: la partie gauche de '->affiche' doit pointer vers un type class/struct/union/générique
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(24): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(24): error C2228: la partie gauche de '.size' doit avoir un class/struct/union
+  c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(24): note: le type est 'unknown-type'
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(26): error C2065: 'listeVehicules' : identificateur non déclaré
+c:\users\antoi\desktop\github\td_pointeurs\main.cpp\main.cpp\main.cpp(27): error C2065: 'listeVehicules' : identificateur non déclaré
